@@ -1,1 +1,2 @@
 # Churn-analysis
+L'entreprise de télécommunications fait face à un taux de churn (désabonnement) élevé, ce qui impacte directement ses revenus et sa croissance. Le projet vise à comprendre les causes principales du churn en utilisant l'analyse des données et les techniques de machine learning pour prédire quels clients sont susceptibles de se désabonner. Les données clients ont été initialement chargées dans une base MySQL, mais pour des raisons pratiques, les analyses et les visualisations sont effectuées directement à partir de fichiers Excel.
