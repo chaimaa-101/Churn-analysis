@@ -1,6 +1,7 @@
 # Customer-Churn-Analysis
-## Overview
+## Project Overview
 This project focuses on predicting customer churn within a telecommunication company, identifying clients who are most likely to discontinue their service and uncovering the factors influencing their decisions.
+
 By leveraging data analytics and machine learning models, the project aims to provide actionable insights that enable the company to:
 
 * Anticipate customer attrition before it occurs,
@@ -22,7 +23,7 @@ By leveraging data analytics and machine learning models, the project aims to pr
 * **Visualization:** Power BI
 
 ## Dataset Overview 
-![Dataset](Images/Modèle des données.png)
+![Dataset](Images/Modèle_des_données.png)
 
 
 ## Project Workflow
@@ -55,6 +56,6 @@ The Random Forest model achieved the best balance between accuracy and recall, m
 
 ## Dashboards
 
-![Churn_Analysis](Images/Churn Analysis.png)
+![Churn_Analysis](Images/Churn_Analysis.png)
 
-![Churn_Prediction](Images/Churn Prediction.png)
+![Churn_Prediction](Images/Churn_Prediction.png)
