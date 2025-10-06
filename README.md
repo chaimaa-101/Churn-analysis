@@ -58,4 +58,12 @@ The Random Forest model achieved the best balance between accuracy and recall, m
 
 ![Churn_Analysis](Images/Churn_Analysis.png)
 
+
+
 ![Churn_Prediction](Images/Churn_Prediction.png)
+
+## Conclusion
+
+The project demonstrates how machine learning and business intelligence can be combined to address customer retention challenges effectively. Through data-driven insights and predictive modeling, organizations can take proactive measures to retain valuable customers and enhance long-term profitability.
+
+## ✨ Happy coding!
