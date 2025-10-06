@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Customer Churn Analysis
 ## Project Overview
 This project focuses on predicting customer churn within a telecommunication company, identifying clients who are most likely to discontinue their service and uncovering the factors influencing their decisions.
 
